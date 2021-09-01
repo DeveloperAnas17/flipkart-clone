@@ -1,8 +1,11 @@
 import Head from "next/head";
 import Banner from "../components/Banner";
+import Books from "../components/Books";
 import Catgories from "../components/Catgories";
 import Electronics from "../components/Electronics";
 import Header from "../components/Header";
+import Laptops from "../components/Laptops";
+import Mobiles from "../components/Mobiles";
 import Trending from "../components/Trending";
 
 export default function Home() {
@@ -16,9 +19,11 @@ export default function Home() {
       <Catgories />
       <div className="max-w-[1600px] mx-auto space-y-2">
         <Banner />
-        {/* <div></div> */}
         <Trending />
         <Electronics />
+        <Books />
+        <Laptops />
+        <Mobiles />
       </div>
     </div>
   );

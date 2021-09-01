@@ -5,7 +5,7 @@ import SearchIcon from "@material-ui/icons/Search";
 
 function Header() {
   return (
-    <header className=" bg-blue-600 h-28 md:h-18 sticky top-0 z-50 py-4 px-4">
+    <header className="shadow-md bg-blue-600 h-24 md:h-18 sticky top-0 z-50 py-4 px-4">
       <div
         className="max-w-[1180px] relative my-0 mx-auto text-white
      
@@ -20,7 +20,7 @@ function Header() {
           />
         </div>
 
-        <div className="absolute flex items-center left-0 right-0 top-12 px-2 py-2 md:top-2 md:mx-52  bg-white flex-grow text-black ">
+        <div className="absolute flex items-center left-0 right-0 top-9 px-2 py-2 md:top-2 md:mx-52  bg-white flex-grow text-black ">
           <SearchIcon />
           <input
             className="w-full px-1 bg-transparent border-0 outline-none"

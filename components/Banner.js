@@ -19,7 +19,11 @@ function Banner() {
           <img loading="lazy" src="https://links.papareact.com/gi" alt="" />
         </div>
         <div>
-          <img loading="lazy" src="./img/banner1.jpeg" alt="" />
+          <img
+            loading="lazy"
+            src="https://rukminim1.flixcart.com/flap/50/50/image/70c6ec63be016abe.jpg?q=50"
+            alt=""
+          />
         </div>
         <div>
           <img loading="lazy" src="./img/banner1.jpeg" alt="" alt="" />
