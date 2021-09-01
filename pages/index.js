@@ -3,6 +3,7 @@ import Banner from "../components/Banner";
 import Books from "../components/Books";
 import Catgories from "../components/Catgories";
 import Electronics from "../components/Electronics";
+import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Laptops from "../components/Laptops";
 import MenFashion from "../components/MenFashion";
@@ -27,6 +28,7 @@ export default function Home() {
         <Mobiles />
         <MenFashion />
       </div>
+      <Footer />
     </div>
   );
 }
