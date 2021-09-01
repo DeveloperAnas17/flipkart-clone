@@ -1,7 +1,7 @@
 function Catgories() {
   return (
     <div className="bg-white flex items-center justify-center md:shadow-md">
-      <div className="max-w-[1180px] m-auto flex items-center space-x-10 overflow-scroll scrollbar-hide p-2">
+      <div className="max-w-[1180px] m-auto flex items-center space-x-16 overflow-scroll scrollbar-hide p-2">
         <div className="categories">
           <img
             className="cate-image"

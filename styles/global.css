@@ -13,4 +13,13 @@
   .footer-p {
     @apply font-light my-2 cursor-pointer text-white text-xs hover:border-b;
   }
+  .add-to-card {
+    @apply px-5 py-2 bg-blue-500 text-white text-xs cursor-pointer;
+  }
+  .item-price {
+    @apply font-bold text-xs text-green-800;
+  }
+  .item-img {
+    @apply w-32 h-28 object-contain;
+  }
 }
