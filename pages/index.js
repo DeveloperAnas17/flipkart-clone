@@ -5,6 +5,7 @@ import Catgories from "../components/Catgories";
 import Electronics from "../components/Electronics";
 import Header from "../components/Header";
 import Laptops from "../components/Laptops";
+import MenFashion from "../components/MenFashion";
 import Mobiles from "../components/Mobiles";
 import Trending from "../components/Trending";
 
@@ -24,6 +25,7 @@ export default function Home() {
         <Books />
         <Laptops />
         <Mobiles />
+        <MenFashion />
       </div>
     </div>
   );

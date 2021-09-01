@@ -1,9 +1,9 @@
-function Mobiles() {
+function MenFashion() {
   return (
     <div className="w-full shadow-md bg-white overflow-scrollbar scrollbar-hide">
       {/* title */}
       <div className="flex items-center justify-between px-3 py-2 border-b">
-        <h2 className="text-xl font-bold">Mobiles</h2>
+        <h2 className="text-xl font-bold">Men's Fashion</h2>
         <button className="bg-blue-500 border-0 outline-none px-6 py-2 text-white font-bold">
           View All
         </button>
@@ -15,12 +15,12 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/312/312/ke1pnrk0/mobile/h/f/2/mi-redmi-9-prime-m2004j191-original-imafutb5637bes8y.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/800/960/klicfww0/shirt/6/0/n/s-st2-vebnor-original-imagymhyterasskh.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1 ">
-            <h4 className="text-sm">REDMI 9 Prime 4GB</h4>
-            <p className="text-green-300 text-xs">$170</p>
+            <h4 className="text-sm">Men Slim Fit</h4>
+            <p className="text-green-300 text-xs">$80</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
             </button>
@@ -32,11 +32,11 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/312/312/kn7sdjk0/mobile/q/j/x/c21-rmx3201-realme-original-imagfxfwbszrxkvu.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/800/960/k3lwuq80/shoe/z/v/h/mrj1324-6-aadi-black-original-imafmzfcjcjytgcf.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm">realme C21 (cross black)</h4>
+            <h4 className="text-sm">Running Shoes</h4>
             <p className="text-green-300 text-xs">$230</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
@@ -49,12 +49,12 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/312/312/kqqykcw0/mobile/j/5/7/galaxy-f22-sm-e225flbdins-samsung-original-imag4z99fp4qdfby.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/495/594/kr0ynbk0/kids-t-shirt/p/e/w/15-16-years-mvt-singham-original-imag4wfsv7w2qrku.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm">SAMSUNG Galaxy F22 </h4>
-            <p className="text-green-300 text-xs">$321</p>
+            <h4 className="text-sm">Full Sleeve</h4>
+            <p className="text-green-300 text-xs">$328</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
             </button>
@@ -66,12 +66,12 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/416/416/k3ncakw0pkrrdj/mobile/p/h/y/huawei-y9-prime-2019-stk-l22-original-imafgf3hqgzwadyq.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/495/594/kjom6q80-0/t-shirt/z/v/g/m-t350hs-tb-seven-rocks-original-imafz7dycg58kcyf.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm">Huawei Y9 Prime</h4>
-            <p className="text-green-300 text-xs">$399</p>
+            <h4 className="text-sm">Half Tshirt</h4>
+            <p className="text-green-300 text-xs">$299</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
             </button>
@@ -83,12 +83,12 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/416/416/jpvihzk0/mobile/n/y/a/honor-9n-lld-al20-original-imafcysuqxfgvknv.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/495/594/kruyw7k0/blazer/g/6/x/44-black-darbar-in-original-imag5k2hgzytcc9t.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm">Honor 9N (Midnight Black)</h4>
-            <p className="text-green-300 text-xs">$280</p>
+            <h4 className="text-sm">Black Single Blazer</h4>
+            <p className="text-green-300 text-xs">$1080</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
             </button>
@@ -100,11 +100,11 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/z/a/f/iphone-11-pro-max-256-u-mwhm2hn-a-apple-0-original-imafkg2ftc5cze5n.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/495/594/kj8wccw0-0/jean/o/a/c/30-bepldrj01-30-darkblue-dais-original-imafyv3u4kay94jz.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm">APPLE iPhone 11 Pro</h4>
+            <h4 className="text-sm">Men Dark Blue Jeans</h4>
             <p className="text-green-400 text-xs">$2300</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
@@ -116,12 +116,12 @@ function Mobiles() {
           <img
             className="w-32 h-28 object-contain"
             loading="lazy"
-            src="https://rukminim1.flixcart.com/image/416/416/j8lxyfk0/mobile/p/z/j/panasonic-eluga-ray-700-eb-90s55er7n-original-imaeyheyybbcvapu.jpeg?q=70"
+            src="https://rukminim1.flixcart.com/image/495/594/kdeum4w0/short/y/d/a/xl-ic-2044-indiclub-original-imafubw5tpvycg4b.jpeg?q=50"
             alt=""
           />
           <div className="flex flex-col items-center justify-center mt-2 space-y-1">
-            <h4 className="text-sm text-center">Panasonic Eluga</h4>
-            <p className="text-green-500 text-xs">$224</p>
+            <h4 className="text-sm text-center">Black Sports Shorts</h4>
+            <p className="text-green-500 text-xs">$44</p>
             <button className="px-5 py-2 bg-blue-500 text-white text-xs">
               Add to Card
             </button>
@@ -132,4 +132,4 @@ function Mobiles() {
   );
 }
 
-export default Mobiles;
+export default MenFashion;
